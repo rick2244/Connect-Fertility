@@ -8,7 +8,7 @@ import {getStorage} from 'firebase/storage'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyAH3G8oiW14MNLuAm0QxccWJk_rH9Kbr9w',
+  apiKey: '',
   authDomain: "connectfertility.firebaseapp.com",
   projectId: "connectfertility",
   storageBucket: "connectfertility.appspot.com",
